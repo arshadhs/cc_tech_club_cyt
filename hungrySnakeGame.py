@@ -11,6 +11,9 @@ It was created for Cambourne Young Techies - Tech Club students to learn about:
 - Handling keyboard events
 - Game loops and logic
 
+Read:
+- https://docs.python.org/3/library/turtle.html
+
 How it works:
 - The snake moves around the screen, growing when it eats food.
 - The player controls the snake using the arrow keys.
